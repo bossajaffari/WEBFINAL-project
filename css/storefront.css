@@ -1,3 +1,8 @@
+*:focus-visible {
+  outline: 3px solid var(--gold);
+  outline-offset: 3px;
+}
+
 body {
   color: var(--ink);
   background: var(--soft);
